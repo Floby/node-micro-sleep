@@ -7,7 +7,11 @@
     "start": "micro index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Floby/node-micro-sleep.git"
+  },
+  "author": "Florent Jaby <florent.jaby@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "micro": "^2.0.0",
