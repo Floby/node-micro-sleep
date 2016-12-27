@@ -1,0 +1,17 @@
+{
+  "name": "micro-sleep",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "micro": "^2.0.0",
+    "micro-core": "^0.1.0",
+    "then-sleep": "^1.0.1"
+  }
+}
